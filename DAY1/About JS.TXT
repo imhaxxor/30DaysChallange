@@ -1,0 +1,17 @@
+JAVASCRIPT:
+History of JavaScript.
+So around 1.6 billion websites in the world use JavaScript.
+In the mid-nineties.
+We had two browser companies.
+One of them was Internet Explorer, and the other was Netscape Navigator.
+Basically what happened was that Netscape hired Brandon, I.
+
+* Who is the founder of JavaScript?
+Netscape signed.
+The task of creating a scripting language.
+Brendan Eich
+Brandon developed a new scripting language in just ten days.
+
+
+* The original name of this scripting languages Mocha.
+* Then it was called Live Script, and then later they called it JavaScript.
