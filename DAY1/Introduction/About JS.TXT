@@ -12,6 +12,5 @@ The task of creating a scripting language.
 Brendan Eich
 Brandon developed a new scripting language in just ten days.
 
-
 * The original name of this scripting languages Mocha.
 * Then it was called Live Script, and then later they called it JavaScript.
